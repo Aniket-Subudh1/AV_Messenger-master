@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "191989719895",
+    "firebase_url": "https://av-messenger-ad150-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "av-messenger-ad150",
+    "storage_bucket": "av-messenger-ad150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191989719895:android:662c5f0c72c0f070645412",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCp2vUTK2VR1a9TIdMfhfkeUlDfUBx18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
